@@ -1,0 +1,106 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/bubble.h
+sort.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+algorithm
+-
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/counting.h
+sort.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+algorithm
+-
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/insert.h
+sort.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/main.cpp
+iostream
+-
+assert.h
+-
+string
+-
+mocker.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/mocker.h
+tester.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/tester.h
+bubble.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/bubble.h
+select.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/select.h
+insert.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/insert.h
+shell.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/shell.h
+quick.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/quick.h
+merge.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/merge.h
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/merge.h
+sort.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/mocker.h
+random
+-
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/quick.h
+sort.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/radix.h
+sort.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/select.h
+sort.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/shell.h
+sort.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+algorithm
+-
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/tester.cpp
+tester.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/tester.h
+
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/tester.h
+stdexcept
+-
+iostream
+-
+assert.h
+-
+sort.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/sort.h
+bubble.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/bubble.h
+counting.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/counting.h
+select.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/select.h
+insert.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/insert.h
+shell.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/shell.h
+quick.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/quick.h
+radix.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/radix.h
+merge.h
+C:/Users/David Lazo/Documents/GitHub/sorts-davidalejandrolazopampa/merge.h
+

@@ -11,7 +11,11 @@ class Sort {
         size_t size;
         
     public:
-        Sort(int *elements, size_t size) : elements(elements), size(size) {}
+        Sort(int *elements, size_t size) :
+        elements(elements), size(size)
+        {
+
+        }
 
         virtual void execute() = 0;
 
